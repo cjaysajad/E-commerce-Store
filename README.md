@@ -4,7 +4,7 @@ Full-featured online store.
 - Product catalog
 - Shopping cart
 - Payment gateway
-- Order management
+- Ordermanagement
 - Inventory
 ## Tech Stack
 - Node.js
