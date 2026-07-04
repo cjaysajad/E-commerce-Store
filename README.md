@@ -6,7 +6,7 @@ Full-featured online store.
 - Payment 
 - Ordermanagement
 - Inventory
-## Tech Stack
+## Tech 
 - Node.js
 - Express
 - MongoDB
