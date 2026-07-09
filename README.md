@@ -6,7 +6,6 @@ Full-featured online store.
 - Payment 
 - Ordermanagement
 - Inventory
-##  
 - Node.js
 - Express
 - MongoDB
